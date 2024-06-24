@@ -6,7 +6,7 @@
 
 <div>
   
-<h3>- I'm currently learning HTML and CSS (and a little bit of Python)</h3>
+<h3>- I'm currently learning HTML and CSS (and a little bit of Php)</h3>
 
 <h3>- Here are some of my Websites 👇</h3>
 
